@@ -29,8 +29,16 @@ Fork it, and make a pull request.
 To run tests, run the following command:
 - node index.js
 
+## Sources
+- Colors: https://www.w3schools.com/cssref/css_colors.php
+- Starter Code: https://github.com/elizabetholsavsky/SVG-logo-maker
+- SVG: https://developer.mozilla.org/en-US/docs/Web/SVG
+
 ## ✋ Questions
 If you have any questions about the repo, open an issue or contact me directly at wasif.96@gmail.com. <br />
 You can find more of my work on GitHub: [mahmoo30](https://github.com/mahmoo30)
 
 #### This README was generated using a [README-generator](https://github.com/mahmoo30/readmegenerator) 🔥🔥🔥
+
+## Walkthrough
+![](https://github.com/mahmoo30/readmegenerator/blob/main/images/screenRecord.gif)

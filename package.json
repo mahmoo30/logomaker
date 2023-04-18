@@ -1,0 +1,26 @@
+{
+  "name": "logomaker",
+  "version": "1.0.0",
+  "description": "## Description This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoo30/logomaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoo30/logomaker/issues"
+  },
+  "homepage": "https://github.com/mahmoo30/logomaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
