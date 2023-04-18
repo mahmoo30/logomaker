@@ -14,7 +14,8 @@ This is a Node.js command-line application that takes in user input to generate 
 
 ## 💾 Installation
 To install necessary dependencies, run the following command:
-- npm i and npm i --save-dev jest
+- npm i
+- npm i --save-dev jest
 
 ## Usage
 The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
