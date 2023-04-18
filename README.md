@@ -1,8 +1,5 @@
 # SVG Logo Maker ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-## Description
-This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. 
-
 ## 🔍 Table of Contents
 - [Description](#description)
 - [Installation](#install)
@@ -12,13 +9,18 @@ This is a Node.js command-line application that takes in user input to generate 
 - [Tests](#test)
 - [Questions](#questions)
 
+## Description
+As a freelance web developer you can generate a simple logo for your projects without having to pay a graphic designer. This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. 
+
 ## 💾 Installation
 To install necessary dependencies, run the following command:
 - npm i
 - npm i --save-dev jest
 
+Also needs a SVG Extension to Visual Studio: https://marketplace.visualstudio.com/items?itemName=jock.svg
+
 ## Usage
-The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+The application prompts the user to select a color (or a hexadecimal number) and type of shape, provide text for the logo, the color (or a hexadecimal number) for the logo text and then saves a generated 300x200 pixel image as a .svg file.
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen): This application is covered by the MIT license. 
