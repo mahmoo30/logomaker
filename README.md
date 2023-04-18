@@ -40,5 +40,5 @@ You can find more of my work on GitHub: [mahmoo30](https://github.com/mahmoo30)
 
 #### This README was generated using a [README-generator](https://github.com/mahmoo30/readmegenerator) 🔥🔥🔥
 
-## Walkthrough
-![](https://github.com/mahmoo30/readmegenerator/blob/main/images/screenRecord.gif)
+## Walkthrough Video
+![](https://github.com/mahmoo30/logomaker/blob/main/assets/images/screenRecord.gif)
